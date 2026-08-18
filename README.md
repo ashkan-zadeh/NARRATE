@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://eccv.ecva.net"><img src="https://img.shields.io/badge/ECCV_2026-DriveX_Workshop-7B1FA2?style=flat"></a>
-  <img src="https://img.shields.io/badge/Paper_PDF-coming_soon-607D8B?style=flat">
+  <a href="https://arxiv.org/abs/2608.14767"><img src="https://img.shields.io/badge/arXiv-2608.14767-B31B1B?style=flat"></a>
   <a href="https://doi.org/10.25912/RDF_1786669427992"><img src="https://img.shields.io/badge/Dataset-QUT_Research_Data_Finder-2E7D32?style=flat"></a>
   <a href="https://doi.org/10.25912/RDF_1786669427992"><img src="https://img.shields.io/badge/DOI-10.25912%2FRDF__1786669427992-1565C0?style=flat"></a>
   <a href="https://ashk4n.me/projects/narrate/"><img src="https://img.shields.io/badge/Project_Page-ashk4n.me-E65100?style=flat"></a>
